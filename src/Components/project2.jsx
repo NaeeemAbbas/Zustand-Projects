@@ -36,7 +36,7 @@ const Project2 = () => {
               onClick={() => removeTodo(todo.id)}
               style={{ marginLeft: "10px" }}
             >
-              ❌ g
+              ❌
             </button>
           </li>
         ))}
