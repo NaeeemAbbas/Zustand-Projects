@@ -6,7 +6,7 @@ const Project1 = () => {
     <div>
       <h1>Zustand CounterApp</h1>
       <h2>{count}</h2>
-      <button onClick={increment}>+ Increments</button>
+      <button onClick={increment}>+ Increments cghc</button>
       <button onClick={decrement}>-decrement</button>
       <button onClick={reset}>Reset</button>
     </div>
